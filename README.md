@@ -12,5 +12,4 @@ http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf
 
 
 Author : 
-           Mili Biswas,
-           Ivan Kravchenko
+           Mili Biswas
